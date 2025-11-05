@@ -47,7 +47,7 @@
             bindings = <
                 &kp TAB   &kp Q &kp W &kp E &kp R &kp T                            &kp Y &kp U  &kp I     &kp O   &kp P    &mt LGUI DEL
                 &lt LOWER ESC &kp A &kp S &kp D &kp F &kp G                        &kp H &kp J  &kp K     &kp L   &kp SEMI &lt WORKSPACE SQT
-                &mt RSHFT PIPE &kp Z &kp X &kp C &kp V &kp B &mo WORKSPACE         &mt RSHFT PIPE &kp N &kp M  &kp COMMA &kp DOT &kp FSLH &mt RSHFT PIPE
+                &mt RSHFT PIPE &kp Z &kp X &kp C &kp V &kp B &mo WORKSPACE         &mt RSHFT PIPE &kp N &kp M  &kp COMMA &kp DOT &kp FSLH &mt RSHFT BSLH
                 &kp LCTRL &kp LALT &kp LGUI &kp LALT &mt LALT DEL &mt LGUI RET &ctrl_shift &lt SHORTCUTS RSHFT &kp SPACE &lt RAISE BSPC &mt LALT BSLH &kp RALT &kp RGUI &kp RALT
             >;
         };
